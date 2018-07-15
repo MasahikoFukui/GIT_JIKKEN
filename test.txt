@@ -1,2 +1,6 @@
 AAAAAA
+<<<<<<< HEAD
+bbbbb
 cccc
+ddd
+>>>>>>> master
